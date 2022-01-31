@@ -1,7 +1,7 @@
 # hiljaisuus2021
 Sound Installation with Supercollider 3 
 
-Workshop in Silence Festival 2021. All the sounds recorded in Särestöniemi, programmed with Supercollider 3 to 
+Workshop in Silence Festival 2021 (https://www.hiljaisuusfestivaali.fi/about). All the sounds recorded in Särestöniemi, programmed with Supercollider 3 to 
 an infinite soundscape. Randomness in timing, layers, filtering etc. (4.1)
 
 Project configuration in the file '2021 - hiljaisuus.scd' and player with algorithms in the file '2021 - hiljaisuus - Ajo.scd'
